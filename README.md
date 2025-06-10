@@ -1,2 +1,2 @@
 # Proyectos_Python
-Proyectos de fundamentos de la programación
+Repositorios de proyectos de fundamentos de la programación en Duoc UC.
